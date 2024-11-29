@@ -1,3 +1,6 @@
 esto es par los tester, para diferenciar las ramas
 
 AQUI SE CREA EL TEST PARA EL COMMIT
+
+caso de prueba numero 3
+resultado: OK
